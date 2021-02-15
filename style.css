@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    margin: 250px;
+    padding: 50px;
+    text-align: center;
+ 
+    width: 100%;
+    color: aqua;
+    background: blue;
+}
